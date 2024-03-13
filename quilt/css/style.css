@@ -1,0 +1,151 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+.column1 {
+  width:20%;
+  height:100px;
+  float:left;
+}
+
+.column2 {
+  background-color:rgb(233, 55, 123);
+  width:60%;
+  height:200px;
+  float:left;
+}
+
+.column3 {
+  width:20%;
+  height:200px;
+  float:left;
+}
+
+.smallbox {
+  width:100%;
+  height:100px;
+}
+
+.pink1 {
+  background-color:#ffc6c6;
+}
+
+.pink2 {
+  background-color:#e9a4ae;
+}
+
+.pink3 {
+    background-color:#c63160;
+  }
+
+.pink4 {
+  background-color:#be2539;
+}
+
+.column4 {
+    width:20%;
+    height:100px;
+    float:left;
+  }
+  .smallbox {
+    width:100%;
+    height:100px;
+  }
+  
+  .pink5 {
+    background-color:#be2539;
+  }
+  
+  .pink6 {
+    background-color:#c63160;
+  }
+
+  .column5 {
+    background-color:rgb(246, 177, 203);
+    width:60%;
+    height:200px;
+    float:left;
+  }
+
+  .pink7 {
+    background-color:#e9a4ae;
+  }
+
+  .pink8 {
+    background-color:#ffc6c6;
+  }
+  .column1 {
+  width:20%;
+  height:100px;
+  float:left;
+}
+
+.column2 {
+  background-color:rgb(233, 55, 123);
+  width:60%;
+  height:200px;
+  float:left;
+}
+
+.column3 {
+  width:20%;
+  height:200px;
+  float:left;
+}
+
+.smallbox {
+  width:100%;
+  height:100px;
+}
+
+.pink9 {
+  background-color:#ffc6c6;
+}
+
+.pink10 {
+  background-color:#e9a4ae;
+}
+
+.pink11 {
+    background-color:#c63160;
+  }
+
+.pink12 {
+  background-color:#be2539;
+}
+
+.column4 {
+    width:20%;
+    height:100px;
+    float:left;
+  }
+  .smallbox {
+    width:100%;
+    height:100px;
+  }
+  
+  .pink13 {
+    background-color:#be2539;
+  }
+  
+  .pink14 {
+    background-color:#e9a4ae;
+  }
+
+  .column5 {
+    background-color:rgb(246, 177, 203);
+    width:60%;
+    height:200px;
+    float:left;
+  }
+
+  .pink15 {
+    background-color:#e9a4ae;
+  }
+
+  .pink16 {
+    background-color:#be2539;
+  }
+  
+
